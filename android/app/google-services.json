@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "401642995837",
+    "project_id": "flut-tube-3da78",
+    "storage_bucket": "flut-tube-3da78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401642995837:android:59ca58eeadcfa41ee83114",
+        "android_client_info": {
+          "package_name": "com.example.flut_tube"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD86eKVQQGpdd1PzaZQeWP8yuf3FKLpkxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
